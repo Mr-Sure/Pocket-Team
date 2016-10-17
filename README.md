@@ -5,7 +5,7 @@
 
 * [项目规范](myproject.md)
 * [目录文件规范](mydir.md)
-* [HTML规范](html-guideline.md)
-* [CSS规范](css-guideline.md)
-* [JS规范](js-guideline.md)
+* [HTML规范](myhtml.md)
+* [CSS规范](mycss.md)
+* [JS规范](myjs.md)
 
