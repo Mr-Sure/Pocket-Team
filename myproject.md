@@ -4,7 +4,7 @@
 
 ## 基础文件引入
 
-* 原则上所有js/css/font等文件的引用路径均为static.pocketuniversity.cn 后期可解析出对应的京台服务器域名，进行CDN加速与前端开发调试。
+* 原则上所有js/css/font等文件的引用路径均为static.pocketuniversity.cn 后期可解析出对应的静态服务器域名，进行CDN加速与前端开发调试。
 
 * 注意：目前 images/css/font/js等静态文件引用路径为http://www.pocketuniversity.cn/static  路径下,以项目名/版本号/静态资源目录/详细名称作为索引。
 
