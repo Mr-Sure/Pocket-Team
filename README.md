@@ -1,4 +1,4 @@
-# 口袋高校前端团队（Pocket-Team）项目规范 
+# 口袋高校前端团队(Pocket-Team)项目规范 
 
     Creat By Sure  V-1.0.0 Date:2016.10.17
     
